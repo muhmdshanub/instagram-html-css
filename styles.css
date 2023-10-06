@@ -118,7 +118,7 @@ a:hover {
 }
 
 .main-container {
-    width: 62.5%;
+    width: 60%;
     display: block;
     margin-left: 15%;
     min-height: 100vh;
@@ -309,7 +309,7 @@ a:hover {
 }
 
 .profile-suggestions{
-    width:22.5%;
+    width:25%;
     padding: 20px 0;
     margin-right: 1rem;
     
@@ -319,9 +319,9 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px;
+    padding: 20px 10px;
     width: 100%;
-    margin: 0 auto;
+    margin: 0 0;
     box-sizing: border-box;
   }
 
@@ -332,8 +332,8 @@ a:hover {
 
   .profile img {
     border-radius: 50%;
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     object-fit: cover;
     margin-right: 0.75rem;
   }
@@ -359,9 +359,9 @@ a:hover {
     display:flex;
     align-items:center;
     justify-content: space-between;
-    padding: 0 20px;
+    padding: 0 10px;
     width: 100%;
-    margin: 0 auto;
+    margin: 0 0;
     box-sizing: border-box;
   }
 
@@ -376,16 +376,16 @@ a:hover {
     display:flex;
     flex-direction: column;
     align-items:center;
-    padding: 0 20px;
+    padding: 0 10px;
     width: 100%;
-    margin: 0 auto;
+    margin: 0 0;
     box-sizing: border-box;
   }
   .suggestion-container{
     width:100%;
     display:flex;
     justify-content: space-between;
-    padding-bottom:10px;
+    padding-bottom:20px;
   }
   .suggestion-profile{
     display: flex;
@@ -394,8 +394,8 @@ a:hover {
 
   .suggestion-profile img {
     border-radius: 50%;
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     object-fit: cover;
     margin-right: 0.75rem;
   }
@@ -425,9 +425,9 @@ a:hover {
     display:flex;
     flex-direction: column;
     align-items:center;
-    padding: 0 20px;
+    padding: 20px 10px;
     width: 100%;
-    margin: 0 auto;
+    margin: 0 10;
     box-sizing: border-box;
   }
   .rest-data ul{
